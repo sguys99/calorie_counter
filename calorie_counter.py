@@ -41,7 +41,7 @@ with st.expander("ℹ️ About this app", expanded=False):
 
 st.markdown("")
 
-fs = Fatsecret('4efcbe23669243e98086f59e404ef125', '02641d7f799449e7b4cad0e350f68b4b')
+fs = Fatsecret('4efcbe23669243e98086f59e404ef125', '3bc000b4b56046c3b6756022017f8aa3')
 
 
 menu_list = list()
